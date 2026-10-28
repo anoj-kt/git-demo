@@ -3,3 +3,4 @@ Git speichert Versionen
 Commits bleiben lokal!
 Wir prüfen den Status mit git status
 Das ist eine neue Zeile
+Das ist ein Satz vom feature branch
