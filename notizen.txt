@@ -2,3 +2,4 @@ Unsere Lernnotizen
 Git speichert Versionen
 Commits bleiben lokal!
 Wir prüfen den Status mit git status
+Das ist eine neue Zeile
