@@ -1,2 +1,3 @@
 Unsere Lernnotizen
 Git speichert Versionen
+Commits bleiben lokal
