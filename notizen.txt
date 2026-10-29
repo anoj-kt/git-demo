@@ -6,3 +6,4 @@ Das ist eine neue Zeile
 Das ist ein Satz vom main branch
 Das ist ein Satz vom feature branch
 Unser Repo liegt jetzt auf GitHub
+Wir prüfen Änderungen in einem Pull Request
